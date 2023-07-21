@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Brian Israel Aguilar</h1>
 <h3 align="center">Desarrollador fronend como backend de Guatemala</h3>
 
-- 🌱 Estoy aprendiendo **VueJs**
+- 🌱 Estoy aprendiendo **VueJs con Laravel**
 
 - 💬 Se mas sobre **react native**
 
